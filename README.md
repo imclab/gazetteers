@@ -1,5 +1,5 @@
-gazetteers_resources
-====================
+gazetteers
+==========
 
 This repository contains various gazetteers (lists) that are of use in natural language processing.
 
